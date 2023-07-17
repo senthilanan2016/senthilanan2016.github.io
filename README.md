@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **ML,Python,Stats**
+- 💬 Ask me about **ML,Python,Statistics,AI,DL,R,Tableau,PowerBI,Advanced Excel**
 
 - 📫 How to reach me **senthilanan2016@gmail.com**
 
